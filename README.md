@@ -1,2 +1,5 @@
 # udacity_repo
-Repo for udacity course exercises
+```
+This is a repository to gain familiarity with git and Github.
+```
+
